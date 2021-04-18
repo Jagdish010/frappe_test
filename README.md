@@ -7,7 +7,7 @@ Test
 MIT
 
 
-![Task Organizer](https://github.com/Jagdish010/frappe_test/blob/main/frappe_test/frappe_test/page/our_glob/our_glob.png)
+![Task Organizer](https://github.com/Jagdish010/frappe_test/blob/main/frappe_test/frappe_test/page/task/task.png)
 
 
 
@@ -15,4 +15,4 @@ MIT
 
 
 
-![Task Organizer](https://github.com/Jagdish010/frappe_test/blob/main/frappe_test/frappe_test/page/our_glob/our_glob.png)
+![Our Globe](https://github.com/Jagdish010/frappe_test/blob/main/frappe_test/frappe_test/page/our_glob/our_glob.png)

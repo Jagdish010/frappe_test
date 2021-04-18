@@ -1,0 +1,19 @@
+{
+ "content": null, 
+ "creation": "2021-04-18 15:55:00.086146", 
+ "docstatus": 0, 
+ "doctype": "Page", 
+ "idx": 0, 
+ "modified": "2021-04-18 15:55:00.086146", 
+ "modified_by": "Administrator", 
+ "module": "Frappe Test", 
+ "name": "our-glob", 
+ "owner": "Administrator", 
+ "page_name": "our glob", 
+ "roles": [], 
+ "script": null, 
+ "standard": "Yes", 
+ "style": null, 
+ "system_page": 0, 
+ "title": "Our Glob"
+}

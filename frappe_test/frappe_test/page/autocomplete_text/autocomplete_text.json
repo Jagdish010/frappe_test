@@ -1,0 +1,19 @@
+{
+ "content": null, 
+ "creation": "2021-04-18 12:49:36.408491", 
+ "docstatus": 0, 
+ "doctype": "Page", 
+ "idx": 0, 
+ "modified": "2021-04-18 12:49:36.408491", 
+ "modified_by": "Administrator", 
+ "module": "Frappe Test", 
+ "name": "autocomplete-text", 
+ "owner": "Administrator", 
+ "page_name": "autocomplete text", 
+ "roles": [], 
+ "script": null, 
+ "standard": "Yes", 
+ "style": null, 
+ "system_page": 0, 
+ "title": "AutoComplete Conundrum"
+}

@@ -1,0 +1,24 @@
+.list-group {
+	max-height: 400px;
+	overflow-y: auto;
+	margin: 10px;
+	cursor: pointer;
+	position: relative;
+	transition: 0.2s;
+	
+	/* make the list items unselectable */
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+.list-group li.checked {
+	background: #888;
+	color: #fff;
+}
+
+.gmap_canvas {
+	overflow: hidden;
+	background: none!important;
+}
